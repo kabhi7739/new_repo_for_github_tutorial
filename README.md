@@ -6,3 +6,5 @@ by abhishek singh
 by abhishek singh for knowledge purpose
 # for changes
 also for knowledge purpose
+# add push automatically change 
+trying to understand get push
